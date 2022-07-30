@@ -1,5 +1,5 @@
 # lvluplife.py
-Mobile-API for Level Up Life mobile game
+Mobile-API for [Level Up Life](https://play.google.com/store/apps/details?id=com.lvluplife.lvluplife) mobile game
 
 ## Example
 ```python3
